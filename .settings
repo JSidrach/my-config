@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# true = execute, false = ignore
+declare -A settings=(
+  ["chromium"]=true
+  ["sublime-text"]=true
+  ["git"]=true
+  ["dropbox"]=true
+  ["spotify"]=true
+  ["texmaker"]=true
+  ["steam"]=true
+  ["vlc"]=true
+  ["ubuntu"]=true
+  ["theme"]=true
+  ["docky"]=true
+  ["zsh"]=true
+  ["remove-unused"]=true
+)

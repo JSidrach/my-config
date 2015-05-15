@@ -1,0 +1,212 @@
+{
+  "timeStamp": 1431627512667,
+  "version": "0.9.7.0",
+  "userSettings": {
+    "advancedUserEnabled": false,
+    "autoUpdate": true,
+    "collapseBlocked": true,
+    "colorBlindFriendly": false,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": false,
+    "experimentalEnabled": false,
+    "externalLists": "! Examples:\n! https://easylist-downloads.adblockplus.org/antiadblockfilters.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_sidebar.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_newsfeed.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_comments.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_suggestions.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_other.txt",
+    "firewallPaneMinimized": true,
+    "parseAllABPHideFilters": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": false
+  },
+  "filterLists": {
+    "assets/user/filters.txt": {
+      "group": "default",
+      "off": false,
+      "entryCount": 0,
+      "entryUsedCount": 0
+    },
+    "assets/ublock/filters.txt": {
+      "title": "uBlock filters",
+      "group": "default",
+      "off": false,
+      "entryCount": 133,
+      "entryUsedCount": 75
+    },
+    "assets/ublock/privacy.txt": {
+      "title": "uBlock filters – Privacy",
+      "group": "default",
+      "off": false,
+      "entryCount": 3,
+      "entryUsedCount": 2
+    },
+    "assets/ublock/unbreak.txt": {
+      "title": "uBlock filters – Unbreak",
+      "group": "default",
+      "off": false,
+      "entryCount": 60,
+      "entryUsedCount": 59
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt": {
+      "title": "EasyList",
+      "group": "ads",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easylist.txt",
+      "off": false,
+      "entryCount": 57296,
+      "entryUsedCount": 0
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist_noelemhide.txt": {
+      "off": false,
+      "title": "EasyList without element hiding rules",
+      "group": "ads",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt",
+      "entryCount": 23664,
+      "entryUsedCount": 0
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
+      "title": "EasyPrivacy",
+      "group": "privacy",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
+      "off": false,
+      "entryCount": 10487,
+      "entryUsedCount": 4
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/fanboy-annoyance.txt": {
+      "off": false,
+      "title": "Fanboy’s Annoyance List",
+      "group": "social",
+      "homeURL": "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt",
+      "entryCount": 19812,
+      "entryUsedCount": 1
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/fanboy-social.txt": {
+      "off": false,
+      "title": "Fanboy’s Social Blocking List",
+      "group": "social",
+      "homeURL": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+      "entryCount": 12392,
+      "entryUsedCount": 0
+    },
+    "assets/thirdparties/hosts-file.net/ad-servers": {
+      "off": false,
+      "title": "hpHosts’s Ad and tracking servers",
+      "group": "multipurpose",
+      "homeURL": "http://hosts-file.net/.%5Cad_servers.txt",
+      "entryCount": 44408,
+      "entryUsedCount": 37925
+    },
+    "http://abp.mozilla-hispano.org/nauscopio/filtros.txt": {
+      "off": false,
+      "title": "ESP: Filtros Nauscopicos",
+      "group": "regions",
+      "homeURL": "",
+      "oldLocation": "assets/thirdparties/abp.mozilla-hispano.org/nauscopio/filtros.txt",
+      "entryCount": 7122,
+      "entryUsedCount": 5576
+    },
+    "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt": {
+      "off": false,
+      "title": "Adblock Warning Removal List",
+      "group": "ads",
+      "homeURL": "",
+      "entryCount": 79,
+      "entryUsedCount": 75
+    },
+    "https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt": {
+      "off": false,
+      "title": "EU: Prebake - Filter Obtrusive Cookie Notices",
+      "group": "regions",
+      "homeURL": "",
+      "entryCount": 736,
+      "entryUsedCount": 648
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/immortal_domains.txt": {
+      "off": false,
+      "title": "Malware domains (long-lived)",
+      "group": "malware",
+      "homeURL": "",
+      "entryCount": 3216,
+      "entryUsedCount": 6
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
+      "title": "Malware domains",
+      "group": "malware",
+      "homeURL": "",
+      "off": false,
+      "entryCount": 14848,
+      "entryUsedCount": 14591
+    },
+    "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
+      "title": "Peter Lowe’s Ad server list",
+      "group": "ads",
+      "homeURL": "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
+      "off": false,
+      "entryCount": 2429,
+      "entryUsedCount": 1577
+    },
+    "assets/thirdparties/raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt": {
+      "off": false,
+      "title": "Anti-Adblock Killer | Reek",
+      "group": "ads",
+      "homeURL": "https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
+      "entryCount": 1056,
+      "entryUsedCount": 968
+    },
+    "assets/thirdparties/someonewhocares.org/hosts/hosts": {
+      "off": false,
+      "title": "Dan Pollock’s hosts file",
+      "group": "multipurpose",
+      "homeURL": "http://someonewhocares.org/hosts/hosts",
+      "entryCount": 10863,
+      "entryUsedCount": 8893
+    },
+    "assets/thirdparties/spam404bl.com/spam404scamlist.txt": {
+      "off": false,
+      "title": "Spam404",
+      "group": "malware",
+      "homeURL": "https://spam404bl.com/spam404scamlist.txt",
+      "entryCount": 5054,
+      "entryUsedCount": 5050
+    },
+    "assets/thirdparties/winhelp2002.mvps.org/hosts.txt": {
+      "off": false,
+      "title": "MVPS HOSTS",
+      "group": "multipurpose",
+      "homeURL": "http://winhelp2002.mvps.org/hosts.txt",
+      "entryCount": 13860,
+      "entryUsedCount": 13486
+    },
+    "assets/thirdparties/www.fanboy.co.nz/enhancedstats.txt": {
+      "off": false,
+      "title": "Fanboy’s Enhanced Tracking List",
+      "group": "privacy",
+      "homeURL": "https://www.fanboy.co.nz/enhancedstats.txt",
+      "entryCount": 1133,
+      "entryUsedCount": 0
+    },
+    "assets/thirdparties/www.fanboy.co.nz/fanboy-antifacebook.txt": {
+      "off": false,
+      "title": "Anti-ThirdpartySocial (see warning inside list)",
+      "group": "social",
+      "homeURL": "https://www.fanboy.co.nz/fanboy-antifacebook.txt",
+      "entryCount": 75,
+      "entryUsedCount": 55
+    },
+    "assets/thirdparties/www.fanboy.co.nz/fanboy-ultimate.txt": {
+      "off": false,
+      "title": "Fanboy+Easylist-Merged Ultimate List",
+      "group": "multipurpose",
+      "homeURL": "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
+      "entryCount": 88723,
+      "entryUsedCount": 88674
+    },
+    "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
+      "title": "Malware Domain List",
+      "group": "malware",
+      "homeURL": "http://www.malwaredomainlist.com/hostslist/hosts.txt",
+      "off": false,
+      "entryCount": 1424,
+      "entryUsedCount": 1424
+    }
+  },
+  "netWhitelist": "behind-the-scene\nchrome-extension-scheme\nchrome-scheme\nloopconversation.about-scheme\nopera-scheme",
+  "dynamicFilteringString": "",
+  "hostnameSwitchesString": "",
+  "userFilters": ""
+}
