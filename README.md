@@ -24,13 +24,13 @@ Ubuntu 15.04 (Vivid Vervet)
     * installs Dropbox
 * [git.sh](scripts/git.sh)
     * installs git
-* [remove.sh](scripts/remove-unused.sh)
+* [remove.sh](scripts/remove.sh)
     * removes the `thunderbird`, `gnome-sudoku`, `gnome-orca`, `gnome-mahjongg`, `aisleriot`, `rhythmbox` and `shotwell` packages
 * [spotify.sh](scripts/spotify.sh)
     * installs Spotify via its official repository
 * [steam.sh](scripts/steam.sh)
     * installs steam
-* [sublime.sh](scripts/sublime-text.sh)
+* [sublime.sh](scripts/sublime.sh)
     * installs Sublime Text 3 from the webupd8team repository
     * sets Sublime Text 3 as the default editor (replacing gedit)
     * copies the user preferences stored in [files/Preferences.sublime-settings](files/Preferences.sublime-settings)
@@ -53,7 +53,7 @@ Ubuntu 15.04 (Vivid Vervet)
 * [vlc.sh](scripts/vlc.sh)
     * installs VLC
     * changes VLC default skin to [MinimalX](http://maverick07x.deviantart.com/art/VLC-MinimalX-385698882), stored in [files/MinimalX_VLC_2.3.1.vlt](files/MinimalX_VLC_2.3.1.vlt)
-    * copies VLC preferences stored in [files/vlcrc](files/vlcrc)
+    * copies VLC preferences stored in [files/vlcrc/](files/vlcrc/)
     * sets VLC as the default media player, replacing Rhythmbox and Totem
 * [zsh.sh](scripts/zsh.sh)
     * installs zsh terminal
