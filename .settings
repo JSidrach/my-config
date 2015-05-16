@@ -3,7 +3,7 @@
 # true = execute, false = ignore
 declare -A settings=(
   ["chromium"]=true
-  ["sublime-text"]=true
+  ["sublime"]=true
   ["git"]=true
   ["dropbox"]=true
   ["spotify"]=true
@@ -14,5 +14,5 @@ declare -A settings=(
   ["theme"]=true
   ["docky"]=true
   ["zsh"]=true
-  ["remove-unused"]=true
+  ["remove"]=true
 )
