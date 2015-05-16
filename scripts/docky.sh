@@ -28,5 +28,5 @@ gconftool-2 --type list --list-type string --set /the/key/to/modify '[file:///us
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-hide-mode 1
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ reveal-trigger 1
 
-# Change manually, if the unity bar still appears
-# Appearance > Reveal sensitivity > Low (Minimum)
+# Set the reveal pressure to a high value so launcher never shows up
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ reveal-pressure 999
