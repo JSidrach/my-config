@@ -13,8 +13,9 @@ Ubuntu 15.04 (Vivid Vervet)
 
 ## Scripts
 * [chromium.sh](scripts/chromium.sh)
-    * installs chromium
-    * sets chromium as the default browser
+    * installs Chromium
+    * sets Chromium as the default browser
+    * sets GMail as the default mail provider
 * [docky.sh](scripts/docky.sh)
     * installs Docky
     * sets Docky preferences
