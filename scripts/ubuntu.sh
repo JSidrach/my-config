@@ -25,7 +25,3 @@ gsettings set org.gnome.nautilus.preferences enable-interactive-search false
 
 # Disable error reporting
 sudo sed -i 's/enabled=1/enabled=0/g' /etc/default/apport
-
-# Windows in specific workspaces (select lightdm when installing gnome-shell-extensions)
-sudo apt-get install gnome-shell-extensions -y
-gsettings set org.gnome.shell.extensions.auto-move-windows application-list "['spotify.desktop:2','sublime_text.desktop:3','chromium-browser.desktop:1','steam.desktop:4']"

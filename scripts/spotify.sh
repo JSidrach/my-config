@@ -10,4 +10,4 @@ sudo apt-get install spotify-client -y
 sudo apt-get install libgcrypt11 -y
 
 # Launch Spotify
-spotify &
+gtk-launch spotify

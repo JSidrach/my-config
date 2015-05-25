@@ -4,4 +4,4 @@
 sudo apt-get install steam -y
 
 # Launch steam
-steam &
+gtk-launch steam

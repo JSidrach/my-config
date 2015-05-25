@@ -13,4 +13,4 @@ sudo apt-get install gnome-gmail -y
 echo "import ublock list (files/ublock.txt) via chrome://extensions > uBlock origin"
 
 # Launch Chromium
-chromium-browser &
+gtk-launch chromium-browser

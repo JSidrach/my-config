@@ -7,7 +7,10 @@ sudo apt-get install docky -y
 gconftool-2 --type string --set /apps/docky-2/Docky/Interface/DockPreferences/Dock1/Autohide "None"
 
 # 3-D
-gconftool-2 --type bool --set /apps/docky-2/Docky/Interface/DockPreferences/Dock1/ThreeDimensional true
+gconftool-2 --type bool --set /apps/docky-2/Docky/Interface/DockPreferences/Dock1/ThreeDimensional false
+
+# Panel Mode
+gconftool-2 --type bool --set /apps/docky-2/Docky/Interface/DockPreferences/Dock1/PanelMode true
 
 # Only show the windows in the same workspace
 gconftool-2 --type bool --set /apps/docky-2/Docky/Items/WnckDockItem/CurrentDesktopOnly true
@@ -30,3 +33,6 @@ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshel
 
 # Set the reveal pressure to a high value so launcher never shows up
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ reveal-pressure 999
+
+# Open Docky
+gtk-launch docky

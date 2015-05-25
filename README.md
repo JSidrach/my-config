@@ -9,7 +9,7 @@ Ubuntu 15.04 (Vivid Vervet)
 
 ## Screenshot
 
-![Screenshot](files/screenshot_2015-05-16_16:26:20.png)
+![Screenshot](files/screenshot_2015-05-25 20:29:05.png)
 
 ## Scripts
 * [chromium.sh](scripts/chromium.sh)
@@ -41,6 +41,7 @@ Ubuntu 15.04 (Vivid Vervet)
     * installs Texmaker
 * [theme.sh](scripts/theme.sh)
     * sets the default theme and icons to Numix/Numix-Circle, via its own repository
+    * sets the background image to [files/background-Justin-Maller.jpg](files/background-Justin-Maller.jpg)
 * [ubuntu.sh](scripts/ubuntu.sh)
     * installs the `build-essential` package
     * sets the default number of workspaces to 4 (2x2)
@@ -50,7 +51,6 @@ Ubuntu 15.04 (Vivid Vervet)
     * disables showing the real name on login
     * enables recursive search for nautilus
     * disables error reporting
-    * sets specific workspaces for some apps (Spotify:2, Sublime Text 3:3, Chromium:1, Steam:4)
 * [vlc.sh](scripts/vlc.sh)
     * installs VLC
     * changes VLC default skin to [MinimalX](http://maverick07x.deviantart.com/art/VLC-MinimalX-385698882), stored in [files/MinimalX_VLC_2.3.1.vlt](files/MinimalX_VLC_2.3.1.vlt)
