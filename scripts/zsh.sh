@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set terminal colors
-cp -r files/profiles ~/.gconf/apps/gnome-terminal/
+\cp files/profiles ~/.gconf/apps/gnome-terminal/
 
 # Install zsh
 sudo apt-get install zsh -y
@@ -13,4 +13,4 @@ wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - 
 chsh -s /bin/zsh
 
 # Set profile and defaults
-cp files/.zshrc ~/.zshrc
+\cp files/.zshrc ~/.zshrc

@@ -14,7 +14,7 @@ gsettings set com.canonical.desktop.interface scrollbar-mode normal
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ panel-opacity 0
 
 # Set the background
-sudo cp files/background-Justin-Maller.jpg /usr/share/
+sudo \cp files/background-Justin-Maller.jpg /usr/share/
 sudo chmod 664 /usr/share/background-Justin-Maller.jpg
 gsettings set org.gnome.desktop.background picture-uri file:///usr/share/background-Justin-Maller.jpg
 gsettings set org.gnome.desktop.background picture-options "stretched"
