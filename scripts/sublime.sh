@@ -18,4 +18,4 @@ wget -O ~/.config/sublime-text-3/Installed\ Packages/Package\ Control.sublime-pa
 \cp files/Package\ Control.sublime-settings ~/.config/sublime-text-3/Packages/User/
 
 # Set file associations
-sudo sed -i 's/gedit.desktop/sublime-text-3.desktop/g' /etc/gnome/defaults.list
+sudo sed -i 's/gedit.desktop/sublime-text-3.desktop/g' /etc/kate/defaults.list
