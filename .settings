@@ -3,16 +3,14 @@
 # true = execute, false = ignore
 declare -A settings=(
   ["chromium"]=true
-  ["sublime"]=true
+  ["sublime"]=false
   ["git"]=true
   ["dropbox"]=true
-  ["spotify"]=true
+  ["spotify"]=false
   ["texmaker"]=true
   ["steam"]=true
-  ["vlc"]=true
   ["ubuntu"]=true
-  ["theme"]=true
-  ["docky"]=true
+  ["theme"]=false
   ["zsh"]=true
-  ["remove"]=true
+  ["remove"]=false
 )
