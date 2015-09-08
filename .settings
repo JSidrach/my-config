@@ -9,6 +9,10 @@ declare -A settings=(
   ["spotify"]=true
   ["texmaker"]=true
   ["steam"]=true
+  ["vlc"]=true
+  ["ubuntu"]=true
+  ["theme"]=true
+  ["docky"]=true
   ["zsh"]=true
   ["remove"]=true
 )
