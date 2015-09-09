@@ -3,14 +3,11 @@
 # true = execute, false = ignore
 declare -A settings=(
   ["chromium"]=true
-  ["sublime"]=false
   ["git"]=true
   ["dropbox"]=true
-  ["spotify"]=false
   ["texmaker"]=true
-  ["steam"]=true
-  ["ubuntu"]=true
-  ["theme"]=false
   ["zsh"]=true
-  ["remove"]=false
+  ["remove"]=true
 )
+
+# Other apps (install manually): Spotify, Numix Icon Theme, Sublime Text 3
