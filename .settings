@@ -2,12 +2,27 @@
 
 # true = execute, false = ignore
 declare -A settings=(
+  ["atom"]=true
   ["chromium"]=true
-  ["git"]=true
   ["dropbox"]=true
+  ["git"]=true
+  ["livestreamer"]=true
+  ["numix"]=true
+  ["plank"]=true
+  ["sublime"]=true
   ["texmaker"]=true
   ["zsh"]=true
   ["remove"]=true
 )
 
-# Other apps (install manually): Spotify, Numix Icon Theme, Sublime Text 3
+# Other tasks (manually):
+## Install spotify from http://repository.spotify.com/pool/non-free/s/spotify-client/
+## Start Plank automatically
+## Login: chromium, spotify, steam, dropbox
+## Configure uBlock Origin in chromium
+## Set terminal to zsh, change aspect
+## Set numix theme
+## Set desktop background
+## Set default apps
+## Set desktop behaviour
+## Set keyboard shortcuts

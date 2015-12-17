@@ -1,0 +1,22 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    disabledPackages: [
+      "welcome"
+      "timecop"
+      "release-notes"
+      "wrap-guide"
+      "spell-check"
+    ]
+  editor:
+    invisibles: {}
+    tabType: "soft"
+    showIndentGuide: true
+    fontSize: 10
+    fontFamily: "Mono"
+  "spell-check": {}
