@@ -26,3 +26,5 @@ declare -A settings=(
 ## Set default apps
 ## Set desktop behaviour
 ## Set keyboard shortcuts
+## Set keyboard input (im-config)
+## Set screen DPI (i.e. 96)
