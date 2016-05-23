@@ -1,0 +1,20 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    disabledPackages: [
+      "welcome"
+      "timecop"
+      "release-notes"
+      "wrap-guide"
+    ]
+  editor:
+    invisibles: {}
+    tabType: "soft"
+    showIndentGuide: true
+    fontSize: 10
+    fontFamily: "Mono"

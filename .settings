@@ -5,26 +5,15 @@ declare -A settings=(
   ["atom"]=true
   ["chromium"]=true
   ["dropbox"]=true
+  ["fish"]=true
   ["git"]=true
-  ["livestreamer"]=true
   ["numix"]=true
-  ["plank"]=true
+  ["remove"]=true
+  ["spotify"]=true
   ["sublime"]=true
   ["texmaker"]=true
-  ["zsh"]=true
-  ["remove"]=true
+  ["ubuntu"]=true
+  ["vlc"]=true
 )
 
-# Other tasks (manually):
-## Install spotify from http://repository.spotify.com/pool/non-free/s/spotify-client/
-## Start Plank automatically
-## Login: chromium, spotify, steam, dropbox
-## Configure uBlock Origin in chromium
-## Set terminal to zsh, change aspect
-## Set numix theme
-## Set desktop background
-## Set default apps
-## Set desktop behaviour
-## Set keyboard shortcuts
-## Set keyboard input (im-config)
-## Set screen DPI (i.e. 96)
+# Manual tasks on MANUAL.md

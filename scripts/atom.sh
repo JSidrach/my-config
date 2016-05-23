@@ -2,11 +2,10 @@
 
 # Install Atom
 sudo add-apt-repository ppa:webupd8team/atom -y
-sudo apt-get update -y
-sudo apt-get install atom -y
-
-# Launch Atom
-atom &
+sudo apt update -y
+sudo apt install atom -y
 
 # Configure Atom
+mkdir -p ~/.atom
+\cp files/config.cson ~/.atom/config.cson
 \cp files/config.json ~/.atom/config.json

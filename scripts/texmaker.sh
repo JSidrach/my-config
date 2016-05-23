@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install texmaker
-sudo apt-get install texlive-full texmaker -y
+sudo apt install texlive-full texmaker -y

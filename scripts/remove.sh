@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Remove autoinstalled packages (search via dpkg --get-selections)
-sudo apt-get --purge remove atril brasero guvcview hexchat pidgin rhythmbox thunderbird -y
+sudo apt --purge remove rhythmbox thunderbird -y
 
 # Remove unused packages
-sudo apt-get autoremove -y
-
+sudo apt autoremove -y

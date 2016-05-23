@@ -1,5 +1,5 @@
 ## Version
-Ubuntu MATE 15.10
+Ubuntu 16.04
 
 ## Running
  * Edit [.settings](.settings) to set which scripts you would like to run

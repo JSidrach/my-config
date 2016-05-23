@@ -2,8 +2,8 @@
 
 # Install Sublime Text 3
 sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y
-sudo apt-get update -y
-sudo apt-get install sublime-text-installer -y
+sudo apt update -y
+sudo apt install sublime-text-installer -y
 
 # Launch Sublime Text 3
 subl &
@@ -12,7 +12,7 @@ subl &
 \cp files/Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/
 
 # Install Package Control
-wget -O ~/.config/sublime-text-3/Installed\ Packages/Package\ Control.sublime-package https://sublime.wbond.net/Package%20Control.sublime-package
+wget --no-check-certificate -O ~/.config/sublime-text-3/Installed\ Packages/Package\ Control.sublime-package https://sublime.wbond.net/Package%20Control.sublime-package
 
 # Install packages
 \cp files/Package\ Control.sublime-settings ~/.config/sublime-text-3/Packages/User/

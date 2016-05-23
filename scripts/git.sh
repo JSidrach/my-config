@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install git
-sudo apt-get install git -y
+sudo apt install git -y
 
 # Set defaults
 git config --global user.email "***REMOVED***"
