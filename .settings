@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # true = execute, false = ignore
+
+# Install Budgie Desktop
 declare -A settings=(
   ["atom"]=true
   ["dev"]=true
@@ -12,6 +14,7 @@ declare -A settings=(
   ["spotify"]=true
   ["sublime"]=true
   ["texmaker"]=true
+  ["theme"]=true
   ["vlc"]=true
 )
 

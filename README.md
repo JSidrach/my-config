@@ -1,5 +1,5 @@
 ## Version
-Ubuntu 16.04
+Ubuntu 16.10
 
 ## Running
  * Edit [.settings](.settings) to set which scripts you would like to run
