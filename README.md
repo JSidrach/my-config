@@ -1,11 +1,10 @@
 ## Version
-Ubuntu 16.10
+Manjaro KDE
 
 ## Running
- * Edit [.settings](.settings) to set which scripts you would like to run
  * Run the main script:
 
-    $ ./do.sh
+    $ ./freshInstall.sh
 
 ## Copyright and License
 
