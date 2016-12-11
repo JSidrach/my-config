@@ -7,6 +7,8 @@ sudo pacman -Sy       \
   spotify             \
   chromium            \
   go                  \
+  rust                \
+  scala               \
   xf86-input-libinput \
   kmix
 

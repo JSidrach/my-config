@@ -12,5 +12,5 @@ List of things to do manually after installing:
 * Set default apps.
 * Shortcut for open a new terminal, and show desktop.
 * Disable window thumbnails (> Compositor > Keep window thumbails > Never).
-* Disable window borders (> Window Decorations > Border size > No borders)
-* Disable touchpad when mouse is connected.
+* Disable window borders (> Window Decorations > Border size > No borders).
+* Install infinity fonts.
