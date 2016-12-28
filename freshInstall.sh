@@ -10,11 +10,13 @@ sudo pacman -Sy       \
   rust                \
   scala               \
   xf86-input-libinput \
-  kmix
+  kmix                \
+  ruby-sass
 
 # Install packages from AUR (requires configuration)
 yaourt -S          \
   spotify          \
   android-studio   \
   google-cloud-sdk \
+  ruby-jekyll      \
   leagueoflegends
