@@ -9,7 +9,6 @@ sudo pacman -Sy       \
   go                  \
   rust                \
   scala               \
-  xf86-input-libinput \
   kmix                \
   ruby-sass
 
