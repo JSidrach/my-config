@@ -8,12 +8,12 @@ sudo pacman -Sy       \
   chromium            \
   go                  \
   rust                \
-  scala               \
   kmix                \
   ruby-sass
 
 # Install packages from AUR (requires configuration)
 yaourt -S          \
+  firefox-aurora   \
   spotify          \
   android-studio   \
   google-cloud-sdk \
