@@ -5,8 +5,6 @@ sudo pacman -Rs                                   \
   firefox-kde                                     \
   flashplugin                                     \
   konversation                                    \
-  plymouth                                        \
-  plymouth-theme-manjaro-elegant                  \
   thunderbird-kde                                 \
   akonadi                                         \
   akonadi-contacts                                \
@@ -21,7 +19,6 @@ sudo pacman -Sy                                   \
   go                                              \
   rust                                            \
   kmix                                            \
-  ruby-sass                                       \
   manjaro-zsh-config
 
 # Install packages from AUR (requires configuration)
@@ -30,5 +27,5 @@ yaourt -S                                         \
   spotify                                         \
   android-studio                                  \
   google-cloud-sdk                                \
-  ruby-jekyll                                     \
+  hugo                                            \
   leagueoflegends-git
