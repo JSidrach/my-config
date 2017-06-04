@@ -18,6 +18,7 @@ sudo pacman -Sy                                   \
   chromium                                        \
   go                                              \
   rust                                            \
+  ruby-sass                                       \
   kmix                                            \
   manjaro-zsh-config
 
@@ -27,5 +28,5 @@ yaourt -S                                         \
   spotify                                         \
   android-studio                                  \
   google-cloud-sdk                                \
-  hugo                                            \
+  ruby-jekyll                                     \
   leagueoflegends-git
