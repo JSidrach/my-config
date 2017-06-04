@@ -7,8 +7,9 @@ List of things to do manually after installing:
 * Log in Spotify, make lists available offline, change display settings.
 * Set wallpaper.
 * Set zsh as default terminal (> Terminal > Preferences).
-* Boot directly: add ```GRUB_DISABLE_OS_PROBER=true``` to ```/etc/default/grub```.
+* Boot directly: add `GRUB_DISABLE_OS_PROBER=true` to `/etc/default/grub`.
 * Set default apps.
 * Shortcut for open a new terminal, and show desktop.
 * Disable window thumbnails (> Compositor > Keep window thumbails > Never).
 * Disable window borders (> Window Decorations > Border size > No borders).
+* Add League of Legends via Lutris.

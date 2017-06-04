@@ -29,4 +29,4 @@ yaourt -S                                         \
   android-studio                                  \
   google-cloud-sdk                                \
   ruby-jekyll                                     \
-  leagueoflegends-git
+  lutris
