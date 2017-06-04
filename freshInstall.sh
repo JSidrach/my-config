@@ -23,7 +23,7 @@ sudo pacman -Sy                                   \
   manjaro-zsh-config
 
 # Install packages from AUR (requires configuration)
-yaourt -S                                         \
+yaourt -S --noconfirm                             \
   firefox-developer                               \
   spotify                                         \
   android-studio                                  \
