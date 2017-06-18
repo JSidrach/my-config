@@ -24,7 +24,7 @@ sudo pacman -Sy                                   \
 
 # Install packages from AUR (requires configuration)
 yaourt -S --noconfirm                             \
-  firefox-developer                               \
+  firefox-dev                                     \
   spotify                                         \
   android-studio                                  \
   google-cloud-sdk                                \
