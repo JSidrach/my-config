@@ -1,9 +1,9 @@
 List of things to do manually after installing:
 
-* Set pinned apps to: Folders, Spotify, Terminal, Atom, Firefox Developer Edition.
+* Set pinned apps to: Folders, Spotify, Terminal, Atom, Firefox.
 * Set launchers to folders, set pinned folders.
 * Disable sound effects (kmix > Event Stream).
-* Log in into Firefox Developer Edition, configure uBlock origin, configure appearance.
+* Log in into Firefox, configure uBlock origin, configure appearance.
 * Log in Spotify, make lists available offline, change display settings.
 * Set wallpaper.
 * Set zsh as default terminal (> Terminal > Preferences).
