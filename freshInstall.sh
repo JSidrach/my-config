@@ -14,11 +14,8 @@ sudo pacman -Rs                                   \
 sudo pacman -Sy                                   \
   atom                                            \
   dropbox                                         \
-  spotify                                         \
   chromium                                        \
   go                                              \
-  rust                                            \
-  ruby-sass                                       \
   kmix                                            \
   manjaro-zsh-config
 
@@ -26,5 +23,4 @@ sudo pacman -Sy                                   \
 yaourt -S --noconfirm                             \
   firefox-developer                               \
   spotify                                         \
-  ruby-jekyll                                     \
   lutris
