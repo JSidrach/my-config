@@ -2,19 +2,20 @@
 
 # Uninstall default packages
 sudo pacman -Rs                                   \
+  akonadi                                         \
+  akonadi-contacts                                \
+  digikam                                         \
   firefox-kde                                     \
   flashplugin                                     \
   konversation                                    \
-  thunderbird-kde                                 \
-  akonadi                                         \
-  akonadi-contacts                                \
-  digikam
+  thunderbird-kde
 
 # Install packages from Manjaro
 sudo pacman -Sy                                   \
   atom                                            \
-  dropbox                                         \
+  calibre                                         \
   chromium                                        \
+  dropbox                                         \
   go                                              \
   kmix                                            \
   manjaro-zsh-config
@@ -22,5 +23,5 @@ sudo pacman -Sy                                   \
 # Install packages from AUR (requires configuration)
 yaourt -S --noconfirm                             \
   firefox-developer                               \
-  spotify                                         \
-  lutris
+  lutris                                          \
+  spotify
