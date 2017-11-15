@@ -1,8 +1,8 @@
 List of things to do manually after installing:
 
-* Set pinned apps to: Folders, Spotify, Terminal, Atom, Firefox.
+* Set pinned apps to: Folders, Terminal, Spotify, Firefox.
 * Set launchers to folders, set pinned folders.
-* Disable sound effects (kmix > Event Stream).
+* Disable sound effects (kmix > Playback Streams > Event Sounds).
 * Log in into Firefox, configure uBlock origin, configure appearance.
 * Log in Spotify, make lists available offline, change display settings.
 * Set wallpaper.

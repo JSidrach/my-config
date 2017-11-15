@@ -2,11 +2,8 @@
 
 # Uninstall default packages
 sudo pacman -Rs                                   \
-  akonadi                                         \
-  akonadi-contacts                                \
-  digikam                                         \
+  cantata                                         \
   firefox-kde                                     \
-  flashplugin                                     \
   konversation                                    \
   thunderbird-kde
 
@@ -15,13 +12,12 @@ sudo pacman -Sy                                   \
   atom                                            \
   calibre                                         \
   chromium                                        \
-  dropbox                                         \
   go                                              \
   kmix                                            \
   manjaro-zsh-config
 
 # Install packages from AUR (requires configuration)
 yaourt -S --noconfirm                             \
-  firefox-developer                               \
+  dropbox                                         \
   lutris                                          \
   spotify
